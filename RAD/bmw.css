@@ -1,0 +1,28 @@
+.bmw-naslovna{
+    height: 420px;
+    background-image: url(./img/bmw/naslov-.jpg);
+    background-size: cover;
+}
+.bmw-naslovna h1{
+    font-size: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 150px;
+}
+.bmw-naslovna h2{
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgba(27, 27, 27, 0.795);
+    margin-left: 420px;
+    margin-right: 420px;
+}
+h1{
+    font-weight: 600;
+    background: linear-gradient(90deg, rgba(255,165,161,1) 10%, rgba(156,75,255,1) 50%, rgba(64,190,255,1) 90%);
+    -webkit-background-clip:  text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: hue 3s infinite linear;
+   
+}
